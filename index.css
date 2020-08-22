@@ -1,0 +1,7 @@
+.wrapper {
+    background-color: #ff0000;
+    width: 100vw; /* viewport(화면)의 width */
+    height: 100vw;
+    cursor: pointer;
+    transition: background-color 0.5s ease-in-out
+}
